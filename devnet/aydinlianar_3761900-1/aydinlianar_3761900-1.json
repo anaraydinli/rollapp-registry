@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "description": "Good luck DYMENSION",
+  "analytics": true,
+    "goldberg": true,
+  "availAddress": "5FedYbWBKtn1V97Nd4trbyfXbSjty45Qu1xCN2oJLDrSyXtp"
 }
